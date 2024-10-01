@@ -6,10 +6,10 @@ Welcome to the **CFA Exam Preparation Materials** repository. This repository is
 
 For now, the following topics are available:
 
-1. **Quantitative Finance I**  
+1. **Quantitative Methods I**  
    Introduction to Quantitative Finance concepts, including time value of money, probability distributions, and more.
 
-2. **Quantitative Finance II**  
+2. **Quantitative Methods II**  
    Advanced Quantitative Finance topics covering hypothesis testing, regression analysis, and financial modeling.
 
 ## Upcoming Additions
